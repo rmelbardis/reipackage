@@ -27,3 +27,17 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# friends
+git+ssh://git@github.com/yuqingwang98/catproject
+git+ssh://git@github.com/pannich/pan_first_package
+git+ssh://git@github.com/markbotterill/marksmagicalproject
+git+ssh://git@github.com/beamishc/carepackage
+git+ssh://git@github.com/c-holcombe1/GreatBritishQuiz
+pandas-jsonlines
+git+ssh://git@github.com/natech123/natepackage
+git+ssh://github.com/Beatrix-droid/mlproject
+git+ssh://git@github.com/TakitaB/dingdong
+git+ssh://git@github.com/DanielVallejoV/daniel_package
+git+ssh://git@github.com/ADWilk19/sharecode
+git+ssh://git@github.com/rebeccasamos/project2
